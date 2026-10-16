@@ -1,5 +1,5 @@
 {
-  "iceServersUrl": "",
+  "iceServersUrl": "https://evolvedchess.metered.live/api/v1/turn/credentials?apiKey=12c368dbcfaa31dcf538ff5f70d3eeb3196d",
   "iceServers": [],
   "iceTransportPolicy": "all"
 }
